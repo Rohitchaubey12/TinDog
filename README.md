@@ -1,6 +1,5 @@
 # TinDog
-
-	It is a website to take care of different breeds of dogs , according to which customer can choose right breed for them.
+It is a website to take care of different breeds of dogs , according to which customer can choose right breed for them.
 ![1](https://user-images.githubusercontent.com/86163674/136510448-6d7b3d7e-8ac9-44ac-99f2-099ee93928e9.PNG)
 ![2](https://user-images.githubusercontent.com/86163674/136510454-c4e1e3a2-2357-44af-9fbe-7b266031bb85.PNG)
 ![3](https://user-images.githubusercontent.com/86163674/136510459-599211e0-c7e0-4252-bcdc-062b6d78c0fc.PNG)
